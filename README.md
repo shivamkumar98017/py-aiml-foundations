@@ -1,6 +1,20 @@
-# Python for AI/ML Foundations
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python" width="280">
+</p>
 
-**A focused practice repository to strengthen intermediate and advanced Python skills** required for Artificial Intelligence and Machine Learning development.
+<h1 align="center">Python for AI/ML Foundations</h1>
+
+<p align="center">
+  <b>A focused practice repository to strengthen intermediate & advanced Python skills</b><br>
+  Required for Artificial Intelligence and Machine Learning development
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Level-Intermediate-orange" alt="Level">
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20Ready-success" alt="Focus">
+</p>
 
 ---
 
@@ -46,27 +60,6 @@ After completing this repository, a learner will be able to:
 
 ---
 
-## Repository Structure
-
-```text
-py-aiml-foundations/
-│
-├── 01_DICTIONARY.ipynb
-├── 02_Tuples.ipynb
-├── 03_Practice_0_1.ipynb
-├── 04_Set.ipynb
-├── 05_Practice_0_2.ipynb
-├── 06_Oop.ipynb
-├── 07_Mini_Case_Study.ipynb
-├── LIST_COMPREHENSION_0.1.ipynb
-├── LIST_COMPREHENSION_0_2.ipynb
-├── FUNCTIONAL_PROGRAMMING,HOF.ipynb
-├── INTERVIEW_LEVEL_QUESTIONS (5).ipynb
-└── README.md
-```
-
----
-
 ## Recommended Order
 
 1. `01_DICTIONARY.ipynb`
@@ -87,6 +80,7 @@ py-aiml-foundations/
 1. Clone the repository:
    ```bash
    git clone https://github.com/shivamkumar98017/py-aiml-foundations.git
+   cd py-aiml-foundations
    ```
 2. Open the notebooks in Jupyter Notebook or Google Colab.
 3. Work through the notebooks in the recommended order.
@@ -104,8 +98,8 @@ py-aiml-foundations/
 
 ## Tech Stack
 
-- Python 3
-- Jupyter Notebook / Google Colab
+- **Python 3**
+- **Jupyter Notebook / Google Colab**
 
 ---
 
@@ -124,11 +118,14 @@ It demonstrates:
 ## Author
 
 **Shivam Kumar**  
-Aspiring AI/ML Engineer & Cybersecurity Enthusiast  
-Motihari, Bihar  
+AI/ML Engineer • Cybersecurity Enthusiast  
+Motihari, Bihar
 
-[GitHub](https://github.com/shivamkumar98017) • [Email](mailto:shivamk34442@gmail.com)
+[GitHub](https://github.com/shivamkumar98017) • [Email](mailto:shivamk34442@gmail.com) • [Instagram](https://www.instagram.com/shivamkumar98017/)
 
 ---
 
-*Part of a structured learning path: Core Python → Advanced Python → NumPy → Pandas → Machine Learning*
+<p align="center">
+  <sub>Part of a structured learning path:<br>
+  <b>Core Python → Advanced Python → NumPy → Pandas → Machine Learning</b></sub>
+</p>
