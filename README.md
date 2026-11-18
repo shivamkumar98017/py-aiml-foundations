@@ -36,10 +36,12 @@ After completing this repository, a learner will be able to:
 
 - Work confidently with dictionaries, tuples, and sets
 - Write concise and efficient code using list comprehensions
-- Apply functional programming tools (`map`, `filter`, `reduce`) and higher-order functions
+- Apply functional programming tools (`map`, `filter`, `lambda`) and higher-order functions
 - Understand and implement Object-Oriented Programming (classes, objects, methods)
+- Handle errors gracefully using `try-except`
+- Perform file handling (text & CSV) — essential for real-world data work
 - Solve common Python interview problems with clean, readable solutions
-- Apply concepts through practice notebooks and a mini case study
+- Apply concepts through practice notebooks and case studies
 
 ---
 
@@ -50,11 +52,13 @@ After completing this repository, a learner will be able to:
 | **Dictionaries** | Key-value operations, methods, nested structures |
 | **Tuples** | Immutable sequences and practical use cases |
 | **Sets** | Unique elements, set operations (union, intersection, difference) |
-| **List Comprehensions** | Writing clean, efficient, and Pythonic code |
-| **Functional Programming** | `map`, `filter`, `reduce`, and pure functions |
-| **Higher-Order Functions** | Functions that accept or return other functions |
-| **Object-Oriented Programming (OOP)** | Classes, objects, `__init__`, methods |
-| **Mini Case Study** | BankAccount class (deposit, withdraw, balance) using OOP |
+| **Object-Oriented Programming (OOP)** | Classes, objects, `__init__`, methods (Part 1 & Part 2) |
+| **Error Handling** | `try-except`, specific exceptions, graceful error recovery |
+| **Lambda, Map & Filter** | Anonymous functions and functional tools |
+| **File Handling & CSV** | Reading/writing text files and CSV data |
+| **Functional Programming & HOF** | Higher-order functions and pure functional style |
+| **List Comprehensions** | Writing clean, efficient, and Pythonic code (Part 1 & Part 2) |
+| **Case Studies** | Practical applications of OOP concepts |
 | **Interview Practice** | Commonly asked Python problems in technical interviews |
 | **Practice Notebooks** | Hands-on exercises to reinforce concepts |
 
@@ -67,11 +71,17 @@ After completing this repository, a learner will be able to:
 3. `03_Practice_0_1.ipynb`
 4. `04_Set.ipynb`
 5. `05_Practice_0_2.ipynb`
-6. `LIST_COMPREHENSION_0.1.ipynb` → `LIST_COMPREHENSION_0_2.ipynb`
-7. `FUNCTIONAL_PROGRAMMING,HOF.ipynb`
-8. `06_Oop.ipynb`
-9. `07_Mini_Case_Study.ipynb`
-10. `INTERVIEW_LEVEL_QUESTIONS (5).ipynb`
+6. `06_Oop_0.1_ipynb`
+7. `07_Mini_Case_Study_0.1.ipynb`
+8. `08_Oop_0_2.ipynb`
+9. `09_Error_Handling.ipynb`
+10. `10_Case_Study_0.2.ipynb`
+11. `11_Lamda_functions,Map,Filter.ipynb`
+12. `12_File_Handling_using_Python,Csv.ipynb`
+13. `13_FUNCTIONAL_PROGRAMMING,HOF.ipynb`
+14. `14_LIST_COMPREHENSION_0.1.ipynb`
+15. `15_LIST_COMPREHENSION_0_2.ipynb`
+16. `16_INTERVIEW_LEVEL_QUESTIONS (5).ipynb`
 
 ---
 
@@ -84,7 +94,7 @@ After completing this repository, a learner will be able to:
    ```
 2. Open the notebooks in Jupyter Notebook or Google Colab.
 3. Work through the notebooks in the recommended order.
-4. Pay special attention to list comprehensions, functional programming, and OOP — these appear frequently in real ML codebases and interviews.
+4. Pay special attention to **list comprehensions**, **functional programming**, **OOP**, **error handling**, and **file handling** — these appear frequently in real ML codebases and interviews.
 5. Attempt the interview questions and practice notebooks independently before reviewing solutions.
 
 ---
@@ -111,7 +121,8 @@ It demonstrates:
 - Intentional practice of intermediate Python concepts
 - Awareness of interview expectations
 - Ability to write clean, modern Python
-- Application of OOP through a practical mini case study
+- Application of OOP through practical case studies
+- Real-world skills like file handling and error handling
 
 ---
 
