@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Level-Intermediate-orange" alt="Level">
+  <img src="https://img.shields.io/badge/Level-Intermediate%20to%20Advanced-orange" alt="Level">
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20Ready-success" alt="Focus">
 </p>
 
