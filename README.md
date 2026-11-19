@@ -14,7 +14,24 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Level-Intermediate%20to%20Advanced-orange" alt="Level">
   <img src="https://img.shields.io/badge/Focus-AI%2FML%20Ready-success" alt="Focus">
+  <img src="https://img.shields.io/badge/Step-02%20of%2005-blueviolet" alt="Step">
 </p>
+
+---
+
+### 📚 Recommended Learning Path
+
+Follow this exact sequence for the best results:
+
+| Step | Repository | Focus |
+|:----:|------------|-------|
+| 01 | [Python Essentials](https://github.com/shivamkumar98017/Python-Essential) | Core Python fundamentals |
+| **02** | **[Python for AI/ML Foundations](https://github.com/shivamkumar98017/py-aiml-foundations)** ← **You are here** | Intermediate + Advanced Python |
+| 03 | [SQL Practice](https://github.com/shivamkumar98017/SQL) | Analytical SQL queries |
+| 04 | [NumPy Playground](https://github.com/shivamkumar98017/numpy-playground) | Numerical computing with NumPy |
+| 05 | [Pandas EDA Practice](https://github.com/shivamkumar98017/Pandas-EDA-Practice) | Data Analysis & Exploratory Data Analysis |
+
+> Complete **Python Essentials** first, then finish this repository before moving to SQL.
 
 ---
 
@@ -104,6 +121,8 @@ After completing this repository, a learner will be able to:
 - Solid understanding of basic Python (variables, data types, loops, functions)
 - Familiarity with lists and basic dictionary usage
 
+> Recommended: Complete **[Python Essentials](https://github.com/shivamkumar98017/Python-Essential)** first.
+
 ---
 
 ## Tech Stack
@@ -133,10 +152,3 @@ AI/ML Engineer • Cybersecurity Enthusiast
 Motihari, Bihar
 
 [GitHub](https://github.com/shivamkumar98017) • [Email](mailto:shivamk34442@gmail.com) • [Instagram](https://www.instagram.com/shivamkumar98017/)
-
----
-
-<p align="center">
-  <sub>Part of a structured learning path:<br>
-  <b>Core Python → Advanced Python → NumPy → Pandas → Machine Learning</b></sub>
-</p>
